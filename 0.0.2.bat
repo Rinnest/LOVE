@@ -66,6 +66,7 @@ color 04
 cls
 echo you wake up
 pause > NUL
+goto MainO
 
 :: ##################################################
 :: Modular checks and lines
