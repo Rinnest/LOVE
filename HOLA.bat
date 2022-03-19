@@ -1,3 +1,5 @@
+:: First concept of the game (in Spanish)
+
 set madre=1
 :mama
 if %madre%==1 echo tu madre esta' viva
