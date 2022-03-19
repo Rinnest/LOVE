@@ -6,7 +6,7 @@ solution A is to just click "more options" when the warning prompt comes out and
 solution B is to copy and paste the code on a .txt and then saving the file as .bat
 
 
-# Versions
+# Versions guide
 
 1. Pre-Alpha (0.0.x)
 2. Alpha (0.1.x)
